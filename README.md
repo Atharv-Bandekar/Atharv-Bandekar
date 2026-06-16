@@ -25,8 +25,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Atharv-Bandekar&style=for-the-badge&color=6D28D9"/>
-<img src="https://img.shields.io/github/followers/Atharv-Bandekar?style=for-the-badge&color=4C1D95&label=Followers"/>
-<img src="https://img.shields.io/github/stars/Atharv-Bandekar?style=for-the-badge&color=7C3AED&label=Stars"/>
 
 </div>
 
@@ -211,15 +209,6 @@ Worked on practical AI and Machine Learning applications with exposure to model 
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Atharv-Bandekar&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
-
-</div>
-
----
 
 # Contribution Activity
 
@@ -237,7 +226,6 @@ Worked on practical AI and Machine Learning applications with exposure to model 
 
 # Current Focus
 
-```yaml
 Learning:
   - Advanced Django Architecture
   - System Design
@@ -259,7 +247,6 @@ Open_To:
   - Backend Developer Roles
   - AI/ML Engineering Opportunities
   - Open Source Collaboration
-```
 
 ---
 
