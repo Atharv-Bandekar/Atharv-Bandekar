@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+%26+ML+Engineer;Full+Stack+Developer+%7C+Django+%26+React;Building+Scalable+Backend+Systems;Passionate+About+Clean+Architecture+%26+Product+Engineering" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:6D28D9,100:312E81&text=Atharv%20Bandekar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
 
 <br/>
 
