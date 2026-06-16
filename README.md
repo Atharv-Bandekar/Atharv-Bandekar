@@ -209,21 +209,6 @@ Worked on practical AI and Machine Learning applications with exposure to model 
 
 ---
 
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-Bandekar&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-
-
----
-
 # Current Focus
 
 Learning:
@@ -256,19 +241,9 @@ Open_To:
 
 [![Gmail](https://img.shields.io/badge/Gmail-atharvbandekar21%40gmail.com-6D28D9?style=for-the-badge\&logo=gmail)](mailto:atharvbandekar21@gmail.com)
 
-
-[![GitHub](https://img.shields.io/badge/GitHub-Atharv--Bandekar-1F2937?style=for-the-badge\&logo=github)](https://github.com/Atharv-Bandekar)
-
-
-
 </div>
 
 ---
 
-<div align="center">
-
-### *"Great software is built through clean architecture, relentless iteration, and an obsession with maintainability."*
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:312E81,50:6D28D9,100:4C1D95"/>
