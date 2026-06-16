@@ -81,15 +81,15 @@ My engineering approach emphasizes:
 
 # AI / ML Expertise
 
-| Domain               | Proficiency  | Details                                                         |
-| -------------------- | ------------ | --------------------------------------------------------------- |
-| Machine Learning     | Advanced     | Supervised learning, model evaluation, deployment workflows     |
-| Deep Learning        | Intermediate | Neural networks, training pipelines, experimentation            |
-| NLP                  | Advanced     | Text classification, transformer-based systems                  |
-| Transformer Models   | Advanced     | DeBERTa-v3 implementation and inference systems                 |
-| Explainable AI (XAI) | Advanced     | Model interpretability and review classification explainability |
-| IBM Watson Studio    | Intermediate | Model training, evaluation and deployment                       |
-| Conversational AI    | Intermediate | Intent training, entity extraction and dialogue systems         |
+| Domain | Details |
+| ------ | ------- |
+| Machine Learning | Supervised learning, model evaluation, deployment workflows |
+| Deep Learning | Neural networks, training pipelines, experimentation |
+| NLP | Text classification, transformer-based systems |
+| Transformer Models | DeBERTa-v3 implementation and inference systems |
+| Explainable AI (XAI) | Model interpretability and review classification explainability |
+| IBM Watson Studio | Model training, evaluation and deployment |
+| Conversational AI | Intent training, entity extraction and dialogue systems |
 
 ---
 
