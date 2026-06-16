@@ -13,13 +13,6 @@
 
 <br/>
 
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/atharv-bandekar">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="mailto:atharvbandekar21@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -238,13 +231,7 @@ Worked on practical AI and Machine Learning applications with exposure to model 
 
 ---
 
-# Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Atharv-Bandekar/Atharv-Bandekar/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
