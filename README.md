@@ -17,9 +17,6 @@
 <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Atharv-Bandekar">
-<img src="https://img.shields.io/badge/GitHub-Follow-1F2937?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <br/>
 
@@ -234,11 +231,4 @@ Open_To:
 
 ---
 
-# Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-atharvbandekar21%40gmail.com-6D28D9?style=for-the-badge\&logo=gmail)](mailto:atharvbandekar21@gmail.com)
-
-</div>
 
