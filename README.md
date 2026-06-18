@@ -232,3 +232,48 @@ Open_To:
 ---
 
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:6D28D9,100:312E81&text=Atharv%20Bandekar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+%26+ML+Engineer;Full+Stack+Developer+%7C+Django+%26+React;Building+Scalable+Backend+Systems;Passionate+About+Clean+Architecture+%26+Product+Engineering" />
+
+<br/>
+
+![CSE](https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge)
+![AI\&ML](https://img.shields.io/badge/Specialization-AI%20%26%20Machine%20Learning-4C1D95?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-8.9-7C3AED?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Maharashtra%2C%20India-4338CA?style=for-the-badge)
+
+<br/>
+
+<a href="https://portfolio.example.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/atharv-bandekar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:atharvbandekar21@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Atharv-Bandekar">
+<img src="https://img.shields.io/badge/GitHub-Follow-1F2937?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Atharv-Bandekar&style=for-the-badge&color=6D28D9"/>
+<img src="https://img.shields.io/github/followers/Atharv-Bandekar?style=for-the-badge&color=4C1D95&label=Followers"/>
+<img src="https://img.shields.io/github/stars/Atharv-Bandekar?style=for-the-badge&color=7C3AED&label=Stars"/>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:312E81,50:6D28D9,100:4C1D95"/>
+
+
+
