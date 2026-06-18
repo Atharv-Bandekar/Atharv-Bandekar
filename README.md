@@ -229,8 +229,6 @@ Open_To:
   - AI/ML Engineering Opportunities
   - Open Source Collaboration
 
----
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:312E81,50:6D28D9,100:4C1D95"/>
 
