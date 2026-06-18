@@ -240,36 +240,6 @@ Open_To:
 
 <br/>
 
-![CSE](https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge)
-![AI\&ML](https://img.shields.io/badge/Specialization-AI%20%26%20Machine%20Learning-4C1D95?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-8.9-7C3AED?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Maharashtra%2C%20India-4338CA?style=for-the-badge)
-
-<br/>
-
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/atharv-bandekar">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:atharvbandekar21@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Atharv-Bandekar">
-<img src="https://img.shields.io/badge/GitHub-Follow-1F2937?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Atharv-Bandekar&style=for-the-badge&color=6D28D9"/>
-<img src="https://img.shields.io/github/followers/Atharv-Bandekar?style=for-the-badge&color=4C1D95&label=Followers"/>
-<img src="https://img.shields.io/github/stars/Atharv-Bandekar?style=for-the-badge&color=7C3AED&label=Stars"/>
-
-</div>
 
 ---
 
