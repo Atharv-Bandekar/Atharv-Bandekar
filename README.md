@@ -20,8 +20,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Atharv-Bandekar&style=for-the-badge&color=6D28D9"/>
-
 </div>
 
 ---
