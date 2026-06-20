@@ -7,7 +7,7 @@
 
 ![CSE](https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge)
 ![AI\&ML](https://img.shields.io/badge/Specialization-AI%20%26%20Machine%20Learning-4C1D95?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-8.9-7C3AED?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-9.0-7C3AED?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Maharashtra%2C%20India-4338CA?style=for-the-badge)
 
 <br/>
@@ -178,7 +178,7 @@ Worked on practical AI and Machine Learning applications with exposure to model 
 
 | Recognition          | Details                                                           |
 | -------------------- | ----------------------------------------------------------------- |
-| Academic Excellence  | CGPA of 8.9 in B.E. CSE (AI & ML)                                 |
+| Academic Excellence  | CGPA of 9.0 in B.E. CSE (AI & ML)                                 |
 | Leadership           | Code Hunt Event Head – TechVenture 2k25                           |
 | Product Engineering  | Built multiple production-oriented full-stack and AI applications |
 | Software Quality     | Extensive use of modular architecture and unit testing            |
