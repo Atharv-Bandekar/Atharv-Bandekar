@@ -32,7 +32,7 @@ My engineering approach emphasizes:
 
 * Designing modular and testable software architectures
 * Building robust backend systems using **Python, Django, and Django REST Framework**
-* Developing full-stack applications using **React and modern web technologies**
+* Developing full-stack applications using **React.**
 * Applying **Machine Learning, Deep Learning, Transformer Models, and Explainable AI**
 * Writing clean, readable, and extensively tested code
 * Shipping products through iterative development and continuous refactoring
