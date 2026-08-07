@@ -7,10 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Finolex_Academy-222222?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic" />
 
   <a href="mailto:atharvbandekar21@gmail.com"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Atharv-Bandekar"><img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  
 </div>
 
 <br>
