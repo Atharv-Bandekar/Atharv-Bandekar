@@ -6,18 +6,14 @@
   </a>
 </div>
 
-<div align="center">
 
-  <a href="mailto:atharvbandekar21@gmail.com"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  
-</div>
 
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharv-Bandekar&label=Profile%20Views&color=555555&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Atharv-Bandekar?label=Followers&style=for-the-badge&color=777777&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Atharv-Bandekar?style=for-the-badge&color=222222&logo=apache-spark&logoColor=white" alt="Stars" />
+ 
 </div>
 
 <br>
@@ -202,6 +198,12 @@ Managed technical and operational coordination for a fast-paced academic event.
 * **Exploring:** Cloud-Native API Gateways, Edge Computing Models
 * **Open To:** Backend Developer Roles, Open Source Collaboration
 
+## ✦ Connect
+
+<div align="center">
+ <a href="mailto:atharvbandekar21@gmail.com"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 
 
