@@ -1,233 +1,211 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=header&text=Atharv%20Bandekar&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&descAlign=60&descAlignY=55" alt="Header Banner" width="100%" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:6D28D9,100:312E81&text=Atharv%20Bandekar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-
-<br/>
-
-![CSE](https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge)
-![AI\&ML](https://img.shields.io/badge/Specialization-AI%20%26%20Machine%20Learning-4C1D95?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-9.0-7C3AED?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Maharashtra%2C%20India-4338CA?style=for-the-badge)
-
-<br/>
-
-
-<a href="mailto:atharvbandekar21@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-
-<br/>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=aaaaaa&center=true&vCenter=true&width=600&lines=CSE+(AI+%26+ML);Backend+Development;Deep+Learning+%26+NLP;Product+Engineering" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Finolex_Academy-222222?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic" />
 
-# About Me
+  <a href="mailto:atharvbandekar21@gmail.com"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Atharv-Bandekar"><img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
-I am **Atharv Bandekar**, a final-year **Computer Science & Engineering (AI & ML)** student and software engineer focused on building **scalable, maintainable, and production-ready applications**.
+<br>
 
-My engineering approach emphasizes:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharv-Bandekar&label=Profile%20Views&color=555555&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Atharv-Bandekar?label=Followers&style=for-the-badge&color=777777&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Atharv-Bandekar?style=for-the-badge&color=222222&logo=apache-spark&logoColor=white" alt="Stars" />
+</div>
 
-* Designing modular and testable software architectures
-* Building robust backend systems using **Python, Django, and Django REST Framework**
-* Developing full-stack applications using **React.**
-* Applying **Machine Learning, Deep Learning, Transformer Models, and Explainable AI**
-* Writing clean, readable, and extensively tested code
-* Shipping products through iterative development and continuous refactoring
-* Solving real-world problems through product-oriented engineering
-
-### Open To
-
-* Software Engineering Internships
-* Backend Engineering Roles
-* AI/ML Engineering Opportunities
-* Open Source Collaboration
-* Product Engineering Teams
-* Research & Development Projects
+<br>
 
 ---
 
-# Tech Stack
+## ✦ About
 
-### Languages
+I am a Computer Science & Engineering fresher specializing in Artificial Intelligence & Machine Learning, currently pursuing an Honors in Data Science. I maintain a 9.0 CGPA at the Finolex Academy of Management & Technology, Ratnagiri. My technical foundation heavily emphasizes backend development, robust machine learning pipeline architectures, and scalable full-stack integration. Driven by a product engineering mindset, I am passionate about bridging complex predictive models and APIs into functional, real-world user applications.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c" />
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
-
-### Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,postgres,sqlite" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
-</p>
+**Open To:** Full-time roles focusing on machine learning, backend development, and collaborative open-source engineering.
 
 ---
 
-# AI / ML Expertise
+## ✦ Tech Stack
+
+<div align="center">
+  <p><strong>Languages</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js&theme=dark" />
+  </a>
+
+  <p><strong>Frontend</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+  </a>
+
+  <p><strong>Backend & Databases</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,sqlite,mongodb&theme=dark" />
+  </a>
+
+  <p><strong>Cloud, DevOps & Tooling</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman&theme=dark" />
+  </a>
+</div>
+
+<br>
+
+---
+
+## ✦ AI / ML Expertise
+
+<div align="center">
 
 | Domain | Details |
-| ------ | ------- |
-| Machine Learning | Supervised learning, model evaluation, deployment workflows |
-| Deep Learning | Neural networks, training pipelines, experimentation |
-| NLP | Text classification, transformer-based systems |
-| Transformer Models | DeBERTa-v3 implementation and inference systems |
-| Explainable AI (XAI) | Model interpretability and review classification explainability |
-| IBM Watson Studio | Model training, evaluation and deployment |
-| Conversational AI | Intent training, entity extraction and dialogue systems |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>Review Guard — Amazon Fake Review Detector</b></summary>
-
-### Production-grade browser extension for fake review detection using AI and Explainable ML.
-
-| Category    | Details                                                       |
-| ----------- | ------------------------------------------------------------- |
-| Stack       | Python, NLP, DeBERTa-v3, XAI                                  |
-| Scale       | Modular inference architecture                                |
-| Performance | Reduced inference latency through multiple refactoring cycles |
-| Security    | Input validation and adversarial test coverage                |
-| Impact      | Reliable review authenticity analysis                         |
-
-
-Built a production-oriented backend split into independently testable modules including inference engines, explainability services, and heuristics layers. The architecture enabled model replacement without affecting API contracts and significantly improved maintainability and extensibility.
-
-</details>
-
-<details>
-<summary><b>Book Notes — Full Stack Reading Tracker</b></summary>
-
-### Full-stack platform for tracking books and reading progress.
-
-| Category    | Details                                        |
-| ----------- | ---------------------------------------------- |
-| Stack       | Django, DRF, React, PostgreSQL                 |
-| Scale       | Full CRUD architecture                         |
-| Performance | Optimized API integration and view refactoring |
-| Security    | Authentication and password encryption         |
-| Impact      | End-to-end reading management platform         |
-
-Architected REST APIs using Django REST Framework and independently navigated complex documentation to implement secure authentication, external API integrations, and comprehensive unit testing strategies.
-
-</details>
-
-<details>
-<summary><b>Passkeeper — Local Password Manager</b></summary>
-
-### Secure desktop password management application.
-
-| Category    | Details                                               |
-| ----------- | ----------------------------------------------------- |
-| Stack       | Python, Tkinter, SQLite                               |
-| Scale       | Self-contained desktop application                    |
-| Performance | Minimal and maintainable architecture                 |
-| Security    | Password strength indicators and secure local storage |
-| Impact      | Improved usability through iterative UX refinements   |
-
-Designed with single-responsibility principles and highly readable code, allowing rapid onboarding and maintenance. The application underwent multiple user-driven refinements to improve experience while preserving architectural simplicity.
-
-</details>
-
----
-
-# Experience
-
-## AI/ML Intern
-
-### IBM SkillsBuild × CSRBOX
-
-**June 2024 – July 2024**
-
-Worked on practical AI and Machine Learning applications with exposure to model development, deployment workflows, and conversational AI systems.
-
-#### Scope of Work
-
-* Built a restaurant-specific chatbot using IBM Watson Assistant
-* Trained intent and entity recognition systems
-* Developed multi-turn conversational flows
-* Trained and evaluated machine learning models
-* Explored end-to-end model deployment pipelines
-* Gained experience in AI product development lifecycle
-
-**Skills**
-
-`Python` `Machine Learning` `IBM Watson Studio` `Chatbots` `NLP` `AI Deployment`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition          | Details                                                           |
-| -------------------- | ----------------------------------------------------------------- |
-| Academic Excellence  | CGPA of 9.0 in B.E. CSE (AI & ML)                                 |
-| Leadership           | Code Hunt Event Head – TechVenture 2k25                           |
-| Product Engineering  | Built multiple production-oriented full-stack and AI applications |
-| Software Quality     | Extensive use of modular architecture and unit testing            |
-| Independent Learning | Self-driven mastery of Django and Django REST Framework           |
+| :--- | :--- |
+| **Deep Learning & NLP** | Sequence Classification (DeBERTa-v3 Small), Transformers, ANN, and RNN implementations. Experience with LLM integration. |
+| **Machine Learning** | Extensive background utilizing Scikit-Learn for Regression, Support Vector Machines (SVM), K-Means Clustering, Random Forest, Gradient Boosting, and AdaBoost architectures. |
+| **MLOps & Infrastructure** | Capable of tracking and deploying models using Docker, MLflow, and DagsHub. Familiar with cloud storage integration via AWS S3. |
 
 </div>
 
+<br>
 
 ---
 
-# GitHub Analytics
+## ✦ Featured Projects
+
+<details>
+  <summary><b>❖ ReviewGuard: E-Commerce Truth Detector</b></summary>
+  <br>
+
+  A real-time fraud detector built to flag promotional spam and AI-generated reviews by combining a DeBERTa-v3 Small classifier with a custom O(N) heuristics engine.
+
+  <div align="center">
+
+  | Stack | Scale | Repository |
+  | :--- | :--- | :--- |  
+  | Python, Flask, Groq API (LLAMA 3.1), JS (Manifest V3) | Batch processing at `/predict_batch` endpoint of reviews resulting low latency | [View Source](https://github.com/Atharv-Bandekar/ReviewGuard) |
+
+  </div>
+
+  **Technical Scope:** Built a Chrome Extension (Manifest V3) that calls the Groq API (LLAMA 3.1) to explain each fraud prediction in plain language, turning model confidence scores into readable justifications for users. Engineered a Flask batch-prediction endpoint (`/predict_batch`) that scores reviews in chunks and streams results progressively using CPU-only inference to avoid GPU costs.
+
+</details>
+
+<details>
+  <summary><b>❖ Network Security Threat Detection Pipeline</b></summary>
+  <br>
+
+  An advanced MLOps pipeline designed to detect phishing threats and manage classification deployment.
+
+  <div align="center">
+
+  | Stack | Repository |
+  | :--- | :--- |
+  | Python, Scikit-Learn, FastAPI, MongoDB, MLflow, Docker, AWS S3 | [View Source](https://github.com/Atharv-Bandekar/Network-Security) |
+
+  </div>
+
+  **Technical Scope:** Trained and tuned 5 classifiers (Random Forest, Decision Tree, Gradient Boosting, Logistic Regression, AdaBoost) using 10-fold CV. Built an MLOps pipeline utilizing MongoDB for ingestion and MLflow/DagsHub for tracking, deploying the model as a containerized FastAPI service on Docker with CSV batch predictions auto-synced to AWS S3.
+
+</details>
+
+<details>
+  <summary><b>❖ CogniCare AI: Multi-Agent Mental Healthcare Assistant</b></summary>
+  <br>
+
+  A full-stack mental healthcare platform explicitly designed to assist the elderly via a highly coordinated multi-agent system.
+
+  <div align="center">
+
+  | Stack | Scale | Security | Repository |
+  | :--- | :--- | :--- | :--- | 
+  | Next.js, FastAPI, Python, Groq API, Supabase | Multilingual (4 Languages) | Supabase (PostgreSQL) persistence | [View Source](https://github.com/Atharv-Bandekar/CogniCare) |
+
+  </div>
+
+  **Technical Scope:** Built a full-stack care platform running a 3-agent pipeline (Interviewer, Evaluator, Coordinator) across 5 REST endpoints, with conversation history persisted securely. Built a multilingual voice pipeline (Groq Whisper large-v3 transcription + DeBERTa evaluator) supporting English, Hindi, Marathi, and Tamil with script normalization.
+
+</details>
+
+<br>
+
+---
+
+## ✦ Experience
+
+**IBM SkillsBuild Internship Program** *CSRBOX on AI-ML* `June '24 - July '24`
+Focused on practical machine learning applications and workflow deployments during a specialized internship.
+* Built a restaurant-specific chatbot using IBM Watson Assistant.
+* Trained and evaluated machine learning models using IBM Watson Studio to understand model behavior and deployment workflows.
+* **Skills:** AI/ML, IBM Watson Assistant, IBM Watson Studio, Model Evaluation.
+
+
+## ✦ Leadership
+
+**Code Hunt Event Head** *A TechVenture 2k25 event* `17 Feb '25`
+Managed technical and operational coordination for a fast-paced academic event.
+* Directed a 60-participants technical event with an 11-members team.
+* **Skills:** Technical Leadership, Event Coordination.
+
+
+
+---
+
+## ✦ Achievement
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharv-Bandekar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-Bandekar&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Bandekar&layout=compact&theme=tokyonight&hide_border=true"/>
+| Recognition | Details |
+| :--- | :--- |
+| **Published Researcher (COMPUTATIA 2026)** | Authored and presented the research paper "ReviewGuard: A Real-Time Browser-Based Framework for Fake Review Detection" at the Int'l Conference on Advances in Computing Technology and AI. Proceedings published via Atlantis Press. |
 
 </div>
 
+<br>
+
 ---
 
-# Current Focus
+## ✦ GitHub Analytics
 
-Learning:
-  - Advanced Django Architecture
-  - System Design
-  - Distributed Systems
-  - Cloud Engineering
+<br>
 
-Building:
-  - Production Grade Backend Systems
-  - AI Powered Web Applications
-  - Open Source Projects
+<div align="center">
 
-Exploring:
-  - Explainable AI
-  - LLM Applications
-  - Scalable API Design
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-Bandekar&theme=dark&hide_border=true&background=111111&ring=cccccc&fire=555555&currStreakNum=999999&currStreakLabel=999999&sideNums=999999&sideLabels=999999&dates=999999" alt="GitHub Streak" width="80%" />
+</div>
 
-Open_To:
-  - Software Engineering Internships
-  - Backend Developer Roles
-  - AI/ML Engineering Opportunities
-  - Open Source Collaboration
+<br>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:312E81,50:6D28D9,100:4C1D95"/>
+
+---
+
+## ✦ Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-Bandekar&bg_color=111111&color=cccccc&line=555555&point=888888&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+<br>
+
+---
+
+## ✦ Current Focus
+
+* **Learning:** Advanced Backend Architectures, MLOps Scalability
+* **Building:** Optimizations for Machine Learning Pipelines
+* **Exploring:** Cloud-Native API Gateways, Edge Computing Models
+* **Open To:** Backend Developer Roles, Open Source Collaboration
 
 
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" alt="Footer Banner" width="100%" />
+</div>
