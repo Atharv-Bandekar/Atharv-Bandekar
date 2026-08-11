@@ -1,9 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=header&text=Atharv%20Bandekar&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&descAlign=60&descAlignY=55" alt="Header Banner" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=aaaaaa&center=true&vCenter=true&width=600&lines=CSE+(AI+%26+ML);Backend+Development;Deep+Learning+%26+NLP;Product+Engineering" alt="Typing SVG" />
-  </a>
 </div>
 
 
