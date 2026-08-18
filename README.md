@@ -137,6 +137,14 @@ Focused on practical machine learning applications and workflow deployments duri
 * **Skills:** AI/ML, IBM Watson Assistant, IBM Watson Studio, Model Evaluation.
 
 
+**AICTE & IBM SkillsBuild Internship on AI Automation** `June '26 - July '26`
+Focused on practical Agentic AI workflows and custom Large Language Model (LLM) deployments.
+* Fine-tuned custom LLMs from scratch based on Transformer architectures for specific domain tasks.
+* Built and integrated autonomous virtual assistants into functional software workflows.
+* Accelerated code development and AI system integration utilizing IBM Bob.
+* **Skills:** Agentic AI, LLM Fine-tuning, Transformer Architecture, IBM Bob, AI Workflows.
+
+
 ## ✦ Leadership
 
 **Code Hunt Event Head** *A TechVenture 2k25 event* `17 Feb '25`
