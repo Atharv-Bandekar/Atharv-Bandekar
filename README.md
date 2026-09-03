@@ -124,7 +124,6 @@ I am a Computer Science & Engineering graduate specializing in Artificial Intell
 
 </details>
 
-<br>
 ---
 
 ## ✦ Experience
