@@ -6,11 +6,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharv-Bandekar&label=Profile%20Views&color=555555&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Atharv-Bandekar?label=Followers&style=for-the-badge&color=777777&logo=github" alt="Followers" />
- 
-</div>
 
 <br>
 
