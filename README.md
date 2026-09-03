@@ -32,6 +32,11 @@ I am a Computer Science & Engineering graduate specializing in Artificial Intell
     <img src="https://skillicons.dev/icons?i=py,c,cpp,js&theme=dark" />
   </a>
 
+  <p><strong>AI / ML & Data</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,huggingface,supabase&theme=dark" />
+  </a>
+
   <p><strong>Frontend</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
