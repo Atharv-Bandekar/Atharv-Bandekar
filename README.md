@@ -123,9 +123,6 @@ I am a Computer Science & Engineering graduate specializing in Artificial Intell
   **Technical Scope:** Built a full-stack care platform running a 3-agent pipeline (Interviewer, Evaluator, Coordinator) across 5 REST endpoints, with conversation history persisted securely. Built a multilingual voice pipeline (Groq Whisper large-v3 transcription + DeBERTa evaluator) supporting English, Hindi, Marathi, and Tamil with script normalization.
 
 </details>
-
-<br>
-
 ---
 
 ## ✦ Experience
