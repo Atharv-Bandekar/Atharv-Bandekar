@@ -151,9 +151,9 @@ Managed technical and operational coordination for a fast-paced academic event.
 
 <div align="center">
 
-| Recognition | Details |
-| :--- | :--- |
-| **Published Researcher (COMPUTATIA 2026)** | Authored and presented the research paper "ReviewGuard: A Real-Time Browser-Based Framework for Fake Review Detection" at the Int'l Conference on Advances in Computing Technology and AI. Proceedings published via Atlantis Press. |
+| Recognition | Details | Source |
+| :--- | :--- | :--- | 
+| **Published Researcher (COMPUTATIA 2026)** | Authored and presented the research paper "ReviewGuard: A Real-Time Browser-Based Framework for Fake Review Detection" at the Int'l Conference on Advances in Computing Technology and AI. Proceedings published via Atlantis Press. | [View Source](https://www.atlantis-press.com/proceedings/computatia-26/126025690) |
 
 </div>
 
