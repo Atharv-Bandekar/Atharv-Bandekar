@@ -173,18 +173,8 @@ Managed technical and operational coordination for a fast-paced academic event.
 <br>
 
 
-
 ---
 
-## ✦ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-Bandekar&bg_color=111111&color=cccccc&line=555555&point=888888&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
-
-<br>
-
----
 
 ## ✦ Current Focus
 
