@@ -6,9 +6,9 @@
 
 ## ✦ About
 
-I am a Computer Science & Engineering graduate specializing in Artificial Intelligence & Machine Learning, pursued an Honors in Data Science. I maintained a 9.0 CGPA at the Finolex Academy of Management & Technology, Ratnagiri. My technical foundation heavily emphasizes backend development, machine learning pipeline architectures, and scalable full-stack integration. Driven by a product engineering mindset, I like bridging predictive models and APIs into functional, real-world user applications.
+A Business Analyst at Turing analysing agentic workflows. Published researcher experienced in architecting, testing, and deploying full-stack, LLM-integrated & ML systems via Docker and AWS. 
 
-**Open To:** Full-time roles focusing on machine learning, backend development, and open-source collaboration.
+**Open To:** Open-source collaboration.
 
 ---
 
