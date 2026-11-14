@@ -123,7 +123,7 @@ A Business Analyst at Turing analysing agentic workflows. Published researcher e
 
 **Turing - Business Analyst (Computer Use Agent) (Contract)** `Oct '26 present`
 * Analysing and evaluating AI agents to shape their behavioural alignment, efficiency, and analytical reasoning of LLMs across multi-turn chained prompts related to generation of system design architectures for scalability and fault tolerance and end-to-end machine learning pipelines. 
-* **Skills: ** Large Language Models, Prompt Engineering, Rubric Evaluation, Justification Builder, Reinforcement Learning Human Feedback (RLHF), Quality Assurance
+* **Skills:** Large Language Models, Prompt Engineering, Rubric Evaluation, Justification Builder, Reinforcement Learning Human Feedback (RLHF), Quality Assurance
 
 
 
