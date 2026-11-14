@@ -171,14 +171,6 @@ Managed technical and operational coordination for a fast-paced academic event.
 
 ---
 
-
-## ✦ Current Focus
-
-* **Learning:** Advanced Backend Architectures, MLOps Scalability
-* **Building:** Optimizations for Machine Learning Pipelines
-* **Exploring:** Cloud-Native API Gateways, Edge Computing Models
-* **Open To:** Backend Developer Roles, Open Source Collaboration
-
 ## ✦ Connect
 
 <div align="center">
