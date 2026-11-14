@@ -129,7 +129,7 @@ A Business Analyst at Turing analysing agentic workflows. Published researcher e
 
 **Mercor - AI Evaluator (Freelance)** `Oct '26 present`
 * Evaluating LLMs (Google AI, ChatGPT) in real-time during live events. Conducting hallucination detection and fact-checking on multi-turn outputs to generate structured, high-quality datasets for RLHF pipeline optimization. 
-* **Skills: ** Large Language Models, Prompt Engineering, Rubric Evaluation, Reinforcement Learning Human Feedback (RLHF)
+* **Skills:** Large Language Models, Prompt Engineering, Rubric Evaluation, Reinforcement Learning Human Feedback (RLHF)
 
 
 ## ✦ Leadership
