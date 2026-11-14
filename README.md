@@ -121,19 +121,15 @@ A Business Analyst at Turing analysing agentic workflows. Published researcher e
 
 ## ✦ Experience
 
-**IBM SkillsBuild Internship Program** *CSRBOX on AI-ML* `June '24 - July '24`
-Focused on practical machine learning applications and workflow deployments during a specialized internship.
-* Built a restaurant-specific chatbot using IBM Watson Assistant.
-* Trained and evaluated machine learning models using IBM Watson Studio to understand model behavior and deployment workflows.
-* **Skills:** AI/ML, IBM Watson Assistant, IBM Watson Studio, Model Evaluation.
+**Turing - Business Analyst (Computer Use Agent) (Contract)** `Oct '26 present`
+* Analysing and evaluating AI agents to shape their behavioural alignment, efficiency, and analytical reasoning of LLMs across multi-turn chained prompts related to generation of system design architectures for scalability and fault tolerance and end-to-end machine learning pipelines. 
+* **Skills: ** Large Language Models, Prompt Engineering, Rubric Evaluation, Justification Builder, Reinforcement Learning Human Feedback (RLHF), Quality Assurance
 
 
-**AICTE & IBM SkillsBuild Internship on AI Automation** `June '26 - July '26`
-Focused on practical Agentic AI workflows and custom Large Language Model (LLM) deployments.
-* Fine-tuned custom LLMs from scratch based on Transformer architectures for specific domain tasks.
-* Built and integrated autonomous virtual assistants into functional software workflows.
-* Accelerated code development and AI system integration utilizing IBM Bob.
-* **Skills:** Agentic AI, LLM Fine-tuning, Transformer Architecture, IBM Bob, AI Workflows.
+
+**AICTE & IBM SkillsBuild Internship on AI Automation** `Oct '26 present`
+* Evaluating LLMs (Google AI, ChatGPT) in real-time during live events. Conducting hallucination detection and fact-checking on multi-turn outputs to generate structured, high-quality datasets for RLHF pipeline optimization. 
+* **Skills: ** Large Language Models, Prompt Engineering, Rubric Evaluation, Reinforcement Learning Human Feedback (RLHF)
 
 
 ## ✦ Leadership
