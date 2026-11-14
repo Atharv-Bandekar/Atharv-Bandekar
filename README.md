@@ -143,7 +143,7 @@ Managed technical and operational coordination for a fast-paced academic event.
 
 ---
 
-## ✦ Achievement
+## ✦ Publication
 
 <div align="center">
 
