@@ -77,7 +77,7 @@ A Business Analyst at Turing analysing agentic workflows. Published researcher e
 
   </div>
 
-  **Technical Scope:** Built a Chrome Extension (Manifest V3) that calls the Groq API (LLAMA 3.1) to explain each fraud prediction in plain language, turning model confidence scores into readable justifications for users. Engineered a Flask batch-prediction endpoint (`/predict_batch`) that scores reviews in chunks and streams results progressively using CPU-only inference to avoid GPU costs.
+  **Technical Scope:** Built a real-time promotional review detector (DeBERTa-v3 + custom heuristics engine) for promotional, AI-generated reviews, reaching F1 0.98 on a 40K-review dataset. Shipped a Chrome Extension using Groq (LLaMA 3.1) to explain predictions in plain language and  a batched Flask inference endpoint that streams results in 1–5s using CPU-only inference. 
 
 </details>
 
@@ -95,7 +95,7 @@ A Business Analyst at Turing analysing agentic workflows. Published researcher e
 
   </div>
 
-  **Technical Scope:** Trained and tuned 5 classifiers (Random Forest, Decision Tree, Gradient Boosting, Logistic Regression, AdaBoost) using 10-fold CV. Built an MLOps pipeline utilizing MongoDB for ingestion and MLflow/DagsHub for tracking, deploying the model as a containerized FastAPI service on Docker with CSV batch predictions auto-synced to AWS S3.
+  **Technical Scope:** Tuned 5 classifiers on an 11K-record phishing dataset (10-fold CV), reaching mean F1 0.98; deployed as a containerized FastAPI service with MLflow/DagsHub tracking and batch predictions synced to AWS S3.
 
 </details>
 
@@ -113,7 +113,7 @@ A Business Analyst at Turing analysing agentic workflows. Published researcher e
 
   </div>
 
-  **Technical Scope:** Built a full-stack care platform running a 3-agent pipeline (Interviewer, Evaluator, Coordinator) across 5 REST endpoints, with conversation history persisted securely. Built a multilingual voice pipeline (Groq Whisper large-v3 transcription + DeBERTa evaluator) supporting English, Hindi, Marathi, and Tamil with script normalization.
+  **Technical Scope:** Built a 3-agent care pipeline on an async Celery/Redis backend with Supabase pgvector RAG; shipped a live Telegram bot (Whisper voice notes, multilingual daily check-ins) with a Next.js caregiver dashboard secured via Auth + RLS. Led the V2 migration from desktop app to distributed Next.js/FastAPI architecture; deployed via Docker on Render, managing PRs and merge-conflict resolution.
 
 </details>
 
