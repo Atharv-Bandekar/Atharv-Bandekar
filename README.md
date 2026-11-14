@@ -137,7 +137,7 @@ A Business Analyst at Turing analysing agentic workflows. Published researcher e
 **Code Hunt Event Head** *A TechVenture 2k25 event* `17 Feb '25`
 Managed technical and operational coordination for a fast-paced academic event.
 * Directed a 60-participants technical event with an 11-members team.
-* **Skills:** Technical Leadership, Event Coordination.
+* **Skills:** Technical Leadership, Event Coordination
 
 
 
